@@ -2,3 +2,4 @@
 
 - Day01: `HelloWorld`
 - Day02: `Simple Input & Output`
+- Day03: `Make Simple Request and Read Response Body`
