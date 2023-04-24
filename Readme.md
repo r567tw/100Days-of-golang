@@ -7,3 +7,4 @@
 - Day05: `Read Simple File`
 - Day06: `Generate Random Number`
 - Day07: `Generate Random Number-2`
+- Day08: `Reverse String`
