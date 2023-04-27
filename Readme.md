@@ -1,4 +1,4 @@
-# 100 Days of Coding
+# 100 Days of Golang
 
 - Day01: `HelloWorld`
 - Day02: `Simple Input & Output`
