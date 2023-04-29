@@ -12,3 +12,4 @@
 - Day10: `Read JSON`
 - Day11: `Write JSON`
 - Day12: `Read CSV`
+- Day13: `Write CSV`
