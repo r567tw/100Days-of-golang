@@ -13,3 +13,4 @@
 - Day11: `Write JSON`
 - Day12: `Read CSV`
 - Day13: `Write CSV`
+- Day14: `Init Function`
