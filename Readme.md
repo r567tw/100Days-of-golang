@@ -16,3 +16,4 @@
 - Day14: `Init Function`
 - Day15: `Interface & OO`
 - Day16: `Regex`
+- Day17: `Pointer`
