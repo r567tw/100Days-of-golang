@@ -17,3 +17,4 @@
 - Day15: `Interface & OO`
 - Day16: `Regex`
 - Day17: `Pointer`
+- Day18: `Simple calculator`
