@@ -18,3 +18,4 @@
 - Day16: `Regex`
 - Day17: `Pointer`
 - Day18: `Simple calculator`
+- Day19: `Embed`
