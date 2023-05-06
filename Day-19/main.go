@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-//go:embed hello.txt
+//go:embed "hello.txt"
 var s string
 
 func main() {
