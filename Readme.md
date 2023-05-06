@@ -19,3 +19,4 @@
 - Day17: `Pointer`
 - Day18: `Simple calculator`
 - Day19: `Embed`
+- Day20: `Map`
