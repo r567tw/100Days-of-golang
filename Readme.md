@@ -20,3 +20,4 @@
 - Day18: `Simple calculator`
 - Day19: `Embed`
 - Day20: `Map`
+- Day21: `Game: Guess a number`
