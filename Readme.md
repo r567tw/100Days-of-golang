@@ -23,3 +23,4 @@
 - Day21: `Game: Guess a number`
 - Day22: `Sum of sum Squares & Recursion`
 - Day23: `Fibonacci`
+- Day24: `Time Cost`
