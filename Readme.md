@@ -26,3 +26,4 @@
 - Day24: `Time Cost`
 - Day25: `Print A Triangle`
 - Day26: `Goroutine`
+- Day27: `Channel & isPrime`
