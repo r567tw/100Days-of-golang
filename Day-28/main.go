@@ -10,12 +10,12 @@ func main() {
 	ch2 := make(chan string)
 
 	go func() {
-		time.Sleep(5 * time.Second)
+		time.Sleep(1 * time.Second)
 		ch1 <- "Hello"
 	}()
 
 	go func() {
-		time.Sleep(5 * time.Second)
+		time.Sleep(1 * time.Second)
 		ch2 <- "World"
 	}()
 
