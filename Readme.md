@@ -28,3 +28,4 @@
 - Day26: `Goroutine`
 - Day27: `Channel & isPrime`
 - Day28: `Select`
+- Day29: `Sync.WaitGroup`
