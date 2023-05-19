@@ -12,3 +12,5 @@ func main() {
 	fmt.Println(TypeA)
 	fmt.Println(TypeB)
 }
+
+// Ref: https://www.readfog.com/a/1657316285844918272
