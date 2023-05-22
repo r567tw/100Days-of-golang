@@ -35,3 +35,4 @@
 - Day33: `Queue`
 - Day34: `Heap`
 - Day35: `Tree`
+- Day36: `Hash Table`
