@@ -36,3 +36,4 @@
 - Day34: `Heap`
 - Day35: `Tree`
 - Day36: `Hash Table`
+- Day37: `Graph`
