@@ -38,4 +38,4 @@
 - Day36: `Hash Table`
 - Day37: `Graph`
 - Day38: `BFS`
-- Day38: `DFS`
+- Day39: `DFS`
