@@ -40,3 +40,4 @@
 - Day38: `BFS`
 - Day39: `DFS`
 - Day40: `Bubble Sort`
+- Day41: `Selected Sort`
