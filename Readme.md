@@ -42,3 +42,4 @@
 - Day40: `Bubble Sort`
 - Day41: `Selected Sort`
 - Day42: `Merge Sort`
+- Day43: `Quick Sort`
