@@ -43,3 +43,4 @@
 - Day41: `Selected Sort`
 - Day42: `Merge Sort`
 - Day43: `Quick Sort`
+- Day44: `Linear Search`
