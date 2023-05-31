@@ -1,0 +1,26 @@
+version:  '3.7'
+services:
+# docker exec -it mongo mongosh admin
+  mongo:
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: root
+    ports:
+      - 27017:27017
+  redis:
+    image: redis
+    restart: always
+    ports:
+      - 6379:6379
+  mysql:
+    image: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: test
+      MYSQL_USER: test
+      MYSQL_PASSWORD: test
+    ports:
+      - 3306:3306
