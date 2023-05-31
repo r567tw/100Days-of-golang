@@ -44,3 +44,4 @@
 - Day42: `Merge Sort`
 - Day43: `Quick Sort`
 - Day44: `Linear Search`
+- Day45: `Binary Search`
