@@ -1,0 +1,1 @@
+- You can validate by `docker-compose exec mysql /bin/bash -i` > `mysql -u root -p`
