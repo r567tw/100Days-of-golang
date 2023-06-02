@@ -46,3 +46,4 @@
 - Day44: `Linear Search`
 - Day45: `Binary Search`
 - Day46: `Mysql Connect`
+- Day46: `Migration`
