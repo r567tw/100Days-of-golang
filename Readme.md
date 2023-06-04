@@ -49,3 +49,4 @@
 - Day47: `Migration`
 - Day48: `SQL Command`
 - Day49: `Transaction`
+- Day50: `Gorm - 1`
