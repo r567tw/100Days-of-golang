@@ -51,3 +51,4 @@
 - Day49: `Transaction`
 - Day50: `Gorm - 1`
 - Day51: `Gorm - 2`
+- Day52: `Redis: init`
