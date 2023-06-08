@@ -53,3 +53,4 @@
 - Day51: `Gorm - 2`
 - Day52: `Redis: init`
 - Day53: `Redis: operation`
+- Day54: `MongoDB Connect`
