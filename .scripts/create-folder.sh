@@ -1,7 +1,7 @@
 #!/bin/sh
  
 DIR='./'
-IGNORED_DIRS=(".//.git" "./" ".//.scripts" ".//.other" "docker-compose.yml")
+IGNORED_DIRS=(".//.git" "./" ".//.scripts" ".//.other" "docker-compose.yml" ".//.github")
 MAX_DAY=0
 
 for DIR in $(find "$DIR" -maxdepth 1 -type d)
