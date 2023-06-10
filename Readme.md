@@ -55,3 +55,4 @@
 - Day53: `Redis: operation`
 - Day54: `MongoDB Connect`
 - Day55: `MongoDB Operation`
+- Day56: `Print 9*9`
