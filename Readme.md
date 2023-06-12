@@ -57,3 +57,4 @@
 - Day55: `MongoDB Operation`
 - Day56: `Print 9*9`
 - Day57: `Iota`
+- Day58: `Lock`
