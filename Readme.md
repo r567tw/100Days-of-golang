@@ -58,3 +58,5 @@
 - Day56: `Print 9*9`
 - Day57: `Iota`
 - Day58: `Lock`
+- Day59: `Build Tag`
+- Day60: `GUI`
