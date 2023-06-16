@@ -61,3 +61,4 @@
 - Day59: `Build Tag`
 - Day60: `GUI`
 - Day61: `Create Http Server`
+- Day62: `HTML Template`
