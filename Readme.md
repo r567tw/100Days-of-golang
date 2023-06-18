@@ -63,3 +63,4 @@
 - Day61: `Create Http Server`
 - Day62: `HTML Template`
 - Day63: `Gin Routing`
+- Day64: `Gin Request`
