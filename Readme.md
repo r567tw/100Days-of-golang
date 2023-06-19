@@ -64,3 +64,4 @@
 - Day62: `HTML Template`
 - Day63: `Gin Routing`
 - Day64: `Gin Request`
+- Day65: `Gin Response`
