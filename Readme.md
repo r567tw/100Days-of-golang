@@ -65,3 +65,5 @@
 - Day63: `Gin Routing`
 - Day64: `Gin Request`
 - Day65: `Gin Response`
+- Day66: `Gin With Gorm`
+- Day67: `Gin RestFul: List`
