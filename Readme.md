@@ -67,3 +67,4 @@
 - Day65: `Gin Response`
 - Day66: `Gin With Gorm`
 - Day67: `Gin RestFul: List`
+- Day68: `Gin RestFul: Create`
