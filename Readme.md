@@ -68,3 +68,6 @@
 - Day66: `Gin With Gorm`
 - Day67: `Gin RestFul: List`
 - Day68: `Gin RestFul: Create`
+- Day69: `Gin RestFul: Read`
+- Day70: `Gin RestFul: Update`
+- Day71: `Gin RestFul: Delete`
