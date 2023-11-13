@@ -71,4 +71,5 @@
 - Day69: `Gin RestFul: Read`
 - Day70: `Gin RestFul: Update`
 - Day71: `Gin RestFul: Delete`
-- Day72: `Gin Middleware`
+- Day72: `Gin Middleware(1)`
+- Day73: `Gin Middleware(2)`
