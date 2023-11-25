@@ -75,3 +75,4 @@
 - Day73: `Gin Middleware(2)`
 - Day74: `Unit Test in Go (use naked return)`
 - Day75: `PProf`
+- Day76: `View Image`
