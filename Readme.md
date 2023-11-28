@@ -78,3 +78,4 @@
 - Day76: `Info Image`
 - Day77: `Increase the brightness of the image`
 - Day78: `Add Watermark`
+- Day79: `Create Image`
