@@ -79,3 +79,4 @@
 - Day77: `Increase the brightness of the image`
 - Day78: `Add Watermark`
 - Day79: `Create Image`
+- Day80: `Add Font to Image`
