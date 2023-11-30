@@ -80,3 +80,4 @@
 - Day78: `Add Watermark`
 - Day79: `Create Image`
 - Day80: `Add Font to Image`
+- Day81: `Simple Calculator CLI`
