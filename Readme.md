@@ -81,3 +81,4 @@
 - Day79: `Create Image`
 - Day80: `Add Font to Image`
 - Day81: `Simple Calculator CLI`
+- Day82: `ENV`
