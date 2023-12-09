@@ -84,3 +84,7 @@
 - Day82: `env`
 - Day83: `encrypt`
 - Day84: `decrypt`
+- Day85: `compress`
+- Day86: `Beego (1)`
+- Day87: `Beego (2)`
+- Day88: `Beego (3)`
