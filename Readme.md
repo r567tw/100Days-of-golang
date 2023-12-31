@@ -88,3 +88,5 @@
 - Day86: `Beego (1)`
 - Day87: `Beego (2)`
 - Day88: `Beego (3)`
+- Day89: `WebSocket (Server)`
+- Day90: `WebSocket (Client)`
