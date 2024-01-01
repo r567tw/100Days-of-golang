@@ -90,3 +90,4 @@
 - Day88: `Beego (3)`
 - Day89: `WebSocket (Server)`
 - Day90: `WebSocket (Client)`
+- Day91: `Fiber (1)`
