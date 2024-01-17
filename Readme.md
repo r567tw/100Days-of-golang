@@ -94,4 +94,4 @@
 - Day92: `Fiber (2): Routing`
 - Day93: `Fiber (3): Middleware`
 - Day94: `Fiber (4): Request and Response`
-- Day94: `Fiber (5): Database Integration`
+- Day95: `Fiber (5): Database Integration`
