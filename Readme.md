@@ -96,3 +96,4 @@
 - Day94: `Fiber (4): Request and Response`
 - Day95: `Fiber (5): Database Integration`
 - Day96: `Grpc (1): Proto Doc`
+- Day97: `Grpc (2): Server`
